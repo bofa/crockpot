@@ -64,8 +64,6 @@ const recepies = [
                 'twigs',
             ],
         }
-
-
     }
 ];
 
@@ -101,8 +99,6 @@ export default class Main extends Component {
                 </Badge>
             </div>
         ));
-
-        recepies.forEach()
 
         return (
             <div>
